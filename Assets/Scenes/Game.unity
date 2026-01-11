@@ -223,6 +223,134 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!1001 &17162037
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 152665224}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.087398745
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.087398745
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.087398745
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.1837
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -21.36
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.97146773
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.23717177
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -27.439
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b9c9a05cff8b4ba4f9a096d077c7c105, type: 2}
+    - target: {fileID: 919132149155446097, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_Name
+      value: Scan (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.28405
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.28405
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.28405
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.157549
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 286.60413
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.040808305
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.011132248
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.27713895
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.95989835
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 32.206
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.084
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -175.107
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 846205907}
+  m_SourcePrefab: {fileID: 100100000, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
 --- !u!1 &20643281
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,6 +363,7 @@ GameObject:
   - component: {fileID: 20643285}
   - component: {fileID: 20643284}
   - component: {fileID: 20643283}
+  - component: {fileID: 20643286}
   m_Layer: 0
   m_Name: AGMic
   m_TagString: Untagged
@@ -336,6 +465,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 20643281}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &20643286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 20643281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "\xCEnt\xE2lnirea"
+  description: "Aceast\u0103 lucrare prezint\u0103 dou\u0103 figuri umane surprinse
+    \xEEntr-un moment de apropiere, suger\xE2nd o interac\u021Biune simbolic\u0103
+    \xEEntre for\u021Be opuse sau complementare. Compozi\u021Bia aerisit\u0103 \u0219i
+    gesturile expresive accentueaz\u0103 ideea de mi\u0219care \u0219i echilibru,
+    iar elementele clasice sunt reinterpretate \xEEntr-o estetic\u0103 modern\u0103.
+    Lucrarea invit\u0103 la reflec\u021Bie asupra rela\u021Biei dintre corp, spa\u021Biu
+    \u0219i sensul \xEEnt\xE2lnirii dintre dou\u0103 prezen\u021Be distincte."
+  renderersToHighlight: []
+--- !u!1 &53316356 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1739541281279610, guid: 30a3561e72e42d045a72040495368d04, type: 3}
+  m_PrefabInstance: {fileID: 476839840}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &60772369 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6954521613702764318, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
+  m_PrefabInstance: {fileID: 1162514252}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &94300051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5392398322951045289, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
@@ -375,7 +535,6 @@ GameObject:
   - component: {fileID: 120612131}
   - component: {fileID: 120612130}
   - component: {fileID: 120612129}
-  - component: {fileID: 120612133}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -501,21 +660,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2104713193}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &120612133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 120612128}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce258c898f464214f8a92e601b9b7638, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MuseumInteractions
-  interactionDistance: 10
-  infoPanel: {fileID: 1866716751}
-  infoText: {fileID: 1094073943}
 --- !u!1001 &152665221
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -580,9 +724,6 @@ PrefabInstance:
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
     m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
-      insertIndex: 0
-      addedObject: {fileID: 282560795}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
       addedObject: {fileID: 382375905}
@@ -681,12 +822,6 @@ PrefabInstance:
       addedObject: {fileID: 1858607067}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 289034955}
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 643588698}
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 14464740}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
@@ -717,16 +852,13 @@ PrefabInstance:
       addedObject: {fileID: 1487403733}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1802676534}
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1245797107}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1365803411}
+      addedObject: {fileID: 1316628596}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1316628596}
+      addedObject: {fileID: 846205906}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
       insertIndex: -1
@@ -767,7 +899,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
+  m_Mesh: {fileID: 4300000, guid: 9407fec50666b7546900a3898e0c472b, type: 3}
 --- !u!4 &152665224 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
@@ -844,14 +976,16 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1858607066}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1858607068}
   m_SourcePrefab: {fileID: 100100000, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
 --- !u!1 &235837342 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7590453392888686472, guid: c58829182f121f24aa5317a22823ca57, type: 3}
   m_PrefabInstance: {fileID: 1385950910}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &241353171 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3582483722785491347, guid: 9998822898a821340bfeffd88b666862, type: 3}
+  m_PrefabInstance: {fileID: 2030086236}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &244644912 stripped
 Transform:
@@ -879,19 +1013,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &244644915
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 235837342}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72195a307c42f214a88c82d6c4503b93, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  description: Aceasta e o statuie
 --- !u!64 &244644916
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -914,288 +1035,27 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
---- !u!1 &282560794
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 282560795}
-  - component: {fileID: 282560798}
-  - component: {fileID: 282560797}
-  - component: {fileID: 282560796}
-  m_Layer: 0
-  m_Name: Canvas
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &282560795
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 282560794}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1866716752}
-  - {fileID: 285386116}
-  m_Father: {fileID: 152665224}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0, y: 0}
---- !u!114 &282560796
+--- !u!114 &244644918
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 282560794}
+  m_GameObject: {fileID: 235837342}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
---- !u!114 &282560797
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 282560794}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
-  m_PhysicalUnit: 3
-  m_FallbackScreenDPI: 96
-  m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
---- !u!223 &282560798
-Canvas:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 282560794}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
-  m_PixelPerfect: 0
-  m_ReceivesEvents: 1
-  m_OverrideSorting: 0
-  m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 25
-  m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
-  m_TargetDisplay: 0
---- !u!1 &285386115
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 285386116}
-  - component: {fileID: 285386118}
-  - component: {fileID: 285386117}
-  m_Layer: 0
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &285386116
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 285386115}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 282560795}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 10, y: 10}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &285386117
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 285386115}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &285386118
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 285386115}
-  m_CullTransparentMesh: 1
---- !u!1001 &289034954
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 152665224}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5898885
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6153642
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5885478
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9.5996
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.74
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.6
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_Name
-      value: Pedestal (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 289034957}
-  m_SourcePrefab: {fileID: 100100000, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
---- !u!4 &289034955 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-  m_PrefabInstance: {fileID: 289034954}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &289034956 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-  m_PrefabInstance: {fileID: 289034954}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &289034957
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 289034956}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Figura t\u0103cut\u0103"
+  description: "Aceast\u0103 sculptur\u0103 reprezint\u0103 o figur\u0103 feminin\u0103
+    surprins\u0103 \xEEntr-o postur\u0103 calm\u0103, cu greutatea corpului u\u0219or
+    deplasat\u0103 pe un picior. Lucrarea exploreaz\u0103 echilibrul dintre stabilitate
+    \u0219i mi\u0219care, pun\xE2nd accent pe propor\u021Biile corpului \u0219i pe
+    rela\u021Bia dintre volum \u0219i lumin\u0103. Suprafe\u021Bele u\u0219or neregulate
+    \u0219i patina aplicat\u0103 sugereaz\u0103 trecerea timpului \u0219i confer\u0103
+    sculpturii un caracter introspectiv \u0219i sobru."
+  renderersToHighlight: []
 --- !u!1 &295238497 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8935066204742433684, guid: c58829182f121f24aa5317a22823ca57, type: 3}
@@ -1227,6 +1087,143 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4464237075027044, guid: 15eeb30f457f3da4e9514031c235f7ac, type: 3}
   m_PrefabInstance: {fileID: 1072571220}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &371552528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 371552529}
+  - component: {fileID: 371552531}
+  - component: {fileID: 371552530}
+  m_Layer: 5
+  m_Name: TitleText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &371552529
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371552528}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.47296, y: 2.47296, z: 2.47296}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1010336238}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 4, y: 176}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &371552530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371552528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 22
+  m_fontSizeBase: 22
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &371552531
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371552528}
+  m_CullTransparentMesh: 1
 --- !u!1 &382375904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1239,6 +1236,7 @@ GameObject:
   - component: {fileID: 382375908}
   - component: {fileID: 382375907}
   - component: {fileID: 382375906}
+  - component: {fileID: 382375909}
   m_Layer: 0
   m_Name: AGMare
   m_TagString: Untagged
@@ -1340,6 +1338,264 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 382375904}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &382375909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 382375904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Revela\u021Bie mitologic\u0103"
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 cu personaje mitologice
+    surprinse \xEEntr-un moment dramatic, \xEEnc\u0103rcat de simbolism \u0219i mi\u0219care.
+    Compozi\u021Bia dinamic\u0103, gesturile ample \u0219i contrastul dintre lumin\u0103
+    \u0219i umbr\u0103 accentueaz\u0103 caracterul narativ al scenei. Influen\u021Bele
+    artei clasice sunt vizibile \xEEn tratarea corpului uman \u0219i \xEEn expresivitatea
+    figurilor, iar atmosfera general\u0103 sugereaz\u0103 interven\u021Bia divin\u0103
+    \u0219i leg\u0103tura dintre lumea uman\u0103 \u0219i cea supranatural\u0103."
+  renderersToHighlight: []
+--- !u!1 &428917168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 428917169}
+  - component: {fileID: 428917172}
+  - component: {fileID: 428917171}
+  - component: {fileID: 428917170}
+  m_Layer: 5
+  m_Name: CloseButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &428917169
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428917168}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1260139885}
+  m_Father: {fileID: 1010336238}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 421, y: -208}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &428917170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428917168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 428917171}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 920579455}
+        m_TargetAssemblyTypeName: MuseumInteractor, Assembly-CSharp
+        m_MethodName: HidePanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &428917171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428917168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &428917172
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428917168}
+  m_CullTransparentMesh: 1
+--- !u!1 &430695318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 430695322}
+  - component: {fileID: 430695321}
+  - component: {fileID: 430695320}
+  - component: {fileID: 430695319}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &430695319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430695318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &430695320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430695318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &430695321
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430695318}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &430695322
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430695318}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1010336238}
+  - {fileID: 1698090114}
+  - {fileID: 1315325690}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1001 &476839840
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1411,7 +1667,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1739541281279610, guid: 30a3561e72e42d045a72040495368d04, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1285947318}
+    - targetCorrespondingSourceObject: {fileID: 1739541281279610, guid: 30a3561e72e42d045a72040495368d04, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1285947319}
   m_SourcePrefab: {fileID: 100100000, guid: 30a3561e72e42d045a72040495368d04, type: 3}
 --- !u!1001 &524771248
 PrefabInstance:
@@ -1487,117 +1749,11 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1928753549183166, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1526505552}
-  m_SourcePrefab: {fileID: 100100000, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
---- !u!1001 &643588697
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 152665224}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5898885
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.6153642
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5885478
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 16.93
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.74
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.614
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-      propertyPath: m_Name
-      value: Pedestal (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
+      addedObject: {fileID: 1036036166}
+    - targetCorrespondingSourceObject: {fileID: 1928753549183166, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 643588700}
-  m_SourcePrefab: {fileID: 100100000, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
---- !u!4 &643588698 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-  m_PrefabInstance: {fileID: 643588697}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &643588699 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
-  m_PrefabInstance: {fileID: 643588697}
-  m_PrefabAsset: {fileID: 0}
---- !u!64 &643588700
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 643588699}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
---- !u!23 &652401713 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 1709088819066404834, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-  m_PrefabInstance: {fileID: 1833553380}
-  m_PrefabAsset: {fileID: 0}
+      addedObject: {fileID: 1036036167}
+  m_SourcePrefab: {fileID: 100100000, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
 --- !u!1 &695405125
 GameObject:
   m_ObjectHideFlags: 0
@@ -1610,6 +1766,7 @@ GameObject:
   - component: {fileID: 695405129}
   - component: {fileID: 695405128}
   - component: {fileID: 695405127}
+  - component: {fileID: 695405130}
   m_Layer: 0
   m_Name: AEMare (1)
   m_TagString: Untagged
@@ -1711,6 +1868,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 695405125}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &695405130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 695405125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Profil de suveran
+  description: "Aceast\u0103 lucrare prezint\u0103 un portret regal redat \xEEn profil,
+    cu tr\u0103s\u0103turi stilizate \u0219i cromatic\u0103 intens\u0103, evoc\xE2nd
+    iconografia egiptean\u0103. Compozi\u021Bia pune accent pe claritatea contururilor
+    \u0219i pe simbolurile asociate puterii \u0219i protec\u021Biei divine. Fundalul
+    decorativ, structurat prin motive repetitive, contribuie la impresia de ordine
+    \u0219i permanen\u021B\u0103, suger\xE2nd statutul sacru \u0219i autoritatea
+    figurii reprezentate."
+  renderersToHighlight: []
 --- !u!1 &700138648
 GameObject:
   m_ObjectHideFlags: 0
@@ -1723,6 +1901,7 @@ GameObject:
   - component: {fileID: 700138652}
   - component: {fileID: 700138651}
   - component: {fileID: 700138650}
+  - component: {fileID: 700138653}
   m_Layer: 0
   m_Name: AEMic (5)
   m_TagString: Untagged
@@ -1824,6 +2003,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 700138648}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &700138653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 700138648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Ofrand\u0103 sacr\u0103"
+  description: "Aceast\u0103 lucrare reprezint\u0103 o scen\u0103 de ofrand\u0103,
+    \xEEn care dou\u0103 figuri sunt surprinse \xEEntr-un act ceremonial solemn.
+    Compozi\u021Bia este organizat\u0103 simetric, iar gesturile ritualice \u0219i
+    obiectele simbolice subliniaz\u0103 caracterul sacru al momentului. Utilizarea
+    conven\u021Biilor iconografice inspirate din arta egiptean\u0103 eviden\u021Biaz\u0103
+    ideea de ordine, devo\u021Biune \u0219i leg\u0103tur\u0103 spiritual\u0103 dintre
+    om \u0219i divinitate."
+  renderersToHighlight: []
 --- !u!1 &715198310
 GameObject:
   m_ObjectHideFlags: 0
@@ -1836,6 +2036,7 @@ GameObject:
   - component: {fileID: 715198314}
   - component: {fileID: 715198313}
   - component: {fileID: 715198312}
+  - component: {fileID: 715198315}
   m_Layer: 0
   m_Name: AGMic (6)
   m_TagString: Untagged
@@ -1937,6 +2138,28 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 715198310}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &715198315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 715198310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Consiliul umbrelor
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 de interior cu mai
+    multe personaje angajate \xEEntr-un dialog t\u0103cut, suger\xE2nd un moment
+    de reflec\u021Bie, judecat\u0103 sau deliberare. Iluminarea redus\u0103 \u0219i
+    paleta cromatic\u0103 temperat\u0103 accentueaz\u0103 atmosfera intim\u0103 \u0219i
+    misterioas\u0103 a compozi\u021Biei. Rela\u021Bia dintre personaje, pozi\u021Bionarea
+    lor \xEEn spa\u021Biu \u0219i gesturile discrete construiesc o nara\u021Biune
+    deschis\u0103, invit\xE2nd privitorul s\u0103 interpreteze semnifica\u021Bia
+    \xEEnt\xE2lnirii \u0219i tensiunile subtile dintre protagoni\u0219ti."
+  renderersToHighlight: []
 --- !u!1 &745763632
 GameObject:
   m_ObjectHideFlags: 0
@@ -2076,6 +2299,7 @@ GameObject:
   - component: {fileID: 769075750}
   - component: {fileID: 769075749}
   - component: {fileID: 769075748}
+  - component: {fileID: 769075751}
   m_Layer: 0
   m_Name: AEMic (1)
   m_TagString: Untagged
@@ -2177,6 +2401,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 769075746}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &769075751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 769075746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Masca eternit\u0103\u021Bii"
+  description: "Aceast\u0103 lucrare reprezint\u0103 o masc\u0103 funerar\u0103 stilizat\u0103,
+    asociat\u0103 ideii de via\u021B\u0103 etern\u0103 \u0219i protec\u021Bie spiritual\u0103.
+    Chipul idealizat, simetria strict\u0103 \u0219i cromatica aurie evoc\u0103 concep\u021Biile
+    egiptene despre divinitate, putere \u0219i nemurire. Elementele decorative \u0219i
+    liniile clare accentueaz\u0103 caracterul sacru al imaginii, suger\xE2nd rolul
+    m\u0103\u0219tii ca leg\u0103tur\u0103 \xEEntre lumea p\u0103m\xE2ntean\u0103
+    \u0219i cea de dincolo."
+  renderersToHighlight: []
 --- !u!1 &838026114
 GameObject:
   m_ObjectHideFlags: 0
@@ -2189,6 +2434,7 @@ GameObject:
   - component: {fileID: 838026118}
   - component: {fileID: 838026117}
   - component: {fileID: 838026116}
+  - component: {fileID: 838026119}
   m_Layer: 0
   m_Name: AEhorizontal
   m_TagString: Untagged
@@ -2290,6 +2536,60 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838026114}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &838026119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838026114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Judecata sufletului
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 inspirat\u0103 din
+    ritualurile egiptene legate de via\u021Ba de apoi, \xEEn care personajele sunt
+    redate \xEEntr-o succesiune narativ\u0103 clar\u0103. Compozi\u021Bia este structurat\u0103
+    pe registre orizontale, iar figurile sunt reprezentate conform conven\u021Biilor
+    tradi\u021Bionale, cu profiluri clare \u0219i gesturi simbolice. Ansamblul vizual
+    sugereaz\u0103 ideea de judecat\u0103, echilibru \u0219i ordine cosmic\u0103,
+    reflect\xE2nd concep\u021Biile spirituale despre destinul sufletului dup\u0103
+    moarte."
+  renderersToHighlight: []
+--- !u!1 &846205905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+  m_PrefabInstance: {fileID: 17162037}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &846205906 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 043685cb8bd44e945a0532da4f0e79b2, type: 3}
+  m_PrefabInstance: {fileID: 17162037}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &846205907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846205905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Anubis \u2013 Gardian al lumii de dincolo"
+  description: "Aceast\u0103 sculptur\u0103 \xEEl reprezint\u0103 pe Anubis, zeitate
+    asociat\u0103 ritualurilor funerare \u0219i protec\u021Biei sufletului \xEEn
+    mitologia egiptean\u0103. Figura este redat\u0103 \xEEntr-o pozi\u021Bie de veghe,
+    simboliz\xE2nd rolul de ghid \u0219i protector al trecerii dintre via\u021B\u0103
+    \u0219i moarte. Tratarea suprafe\u021Belor \u0219i patina aplicat\u0103 evoc\u0103
+    vechimea \u0219i sacralitatea obiectelor ritualice, \xEEn timp ce forma compact\u0103
+    \u0219i stabil\u0103 accentueaz\u0103 ideea de ordine, permanen\u021B\u0103 \u0219i
+    echilibru spiritual."
+  renderersToHighlight: []
 --- !u!1 &911693066
 GameObject:
   m_ObjectHideFlags: 0
@@ -2302,6 +2602,7 @@ GameObject:
   - component: {fileID: 911693070}
   - component: {fileID: 911693069}
   - component: {fileID: 911693068}
+  - component: {fileID: 911693071}
   m_Layer: 0
   m_Name: AEMare (5)
   m_TagString: Untagged
@@ -2403,11 +2704,242 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 911693066}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &911693071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 911693066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Audien\u021B\u0103 regal\u0103"
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 ceremonial\u0103
+    cu dou\u0103 personaje regale redate \xEEntr-o compozi\u021Bie frontal\u0103
+    \u0219i rigid\u0103, specific\u0103 artei inspirate din Egiptul antic. Postura,
+    vestimenta\u021Bia elaborat\u0103 \u0219i decorul bogat simbolizeaz\u0103 autoritatea,
+    sacralitatea \u0219i ordinea social\u0103. Cromatica intens\u0103 \u0219i detaliile
+    ornamentale accentueaz\u0103 caracterul solemn al scenei, suger\xE2nd o \xEEnt\xE2lnire
+    cu semnifica\u021Bie politic\u0103 sau religioas\u0103 \xEEn cadrul unei civiliza\u021Bii
+    idealizate."
+  renderersToHighlight: []
+--- !u!1 &920579454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 920579456}
+  - component: {fileID: 920579455}
+  m_Layer: 0
+  m_Name: InteractionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &920579455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920579454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a31ff3f21c37fd4d9900a147cf2bda0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MuseumInteractor
+  playerCamera: {fileID: 120612131}
+  interactDistance: 3
+  interactLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  infoPanel: {fileID: 1010336237}
+  titleText: {fileID: 371552530}
+  bodyText: {fileID: 1356107729}
+  interactHintText: {fileID: 1698090115}
+  hintMessage: Press E
+  crosshairImage: {fileID: 1315325691}
+  crosshairNormalSize: {x: 6, y: 6}
+  crosshairHoverSize: {x: 12, y: 12}
+  crosshairLerpSpeed: 12
+  crosshairNormalColor: {r: 1, g: 1, b: 1, a: 1}
+  crosshairHoverColor: {r: 0, g: 1, b: 0, a: 1}
+  tintMultiplier: 1.32
+  playerMovement: {fileID: 2104713196}
+--- !u!4 &920579456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920579454}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.75318, y: 0.49413, z: 10.1366}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1004046564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1928753549183166, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
+  m_PrefabInstance: {fileID: 524771248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1010336237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1010336238}
+  - component: {fileID: 1010336240}
+  - component: {fileID: 1010336239}
+  - component: {fileID: 1010336241}
+  m_Layer: 5
+  m_Name: InfoPanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1010336238
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010336237}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 371552529}
+  - {fileID: 1356107728}
+  - {fileID: 428917169}
+  m_Father: {fileID: 430695322}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1010336239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010336237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.85882354}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1010336240
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010336237}
+  m_CullTransparentMesh: 1
+--- !u!114 &1010336241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010336237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Vas cu procesiune ritualic\u0103"
+  description: "Acest vas decorativ prezint\u0103 o compozi\u021Bie figurativ\u0103
+    dispus\u0103 \xEEn registru continuu, suger\xE2nd o scen\u0103 de procesiune
+    ritualic\u0103. Siluetele stilizate, realizate \xEEn contrast cromatic, evoc\u0103
+    influen\u021Be ale ceramicii antice, reinterpretate \xEEntr-o estetic\u0103 modern\u0103.
+    Forma echilibrat\u0103 \u0219i propor\u021Biile atent controlate subliniaz\u0103
+    rolul decorativ al obiectului, eviden\u021Biind leg\u0103tura dintre tradi\u021Bie
+    \u0219i expresie artistic\u0103 contemporan\u0103.\n"
+  renderersToHighlight: []
 --- !u!4 &1036036165 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4400385367350492, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
   m_PrefabInstance: {fileID: 524771248}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1036036166
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004046564}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 2.009887, z: 1}
+  m_Center: {x: 0, y: 0.50494087, z: 0}
+--- !u!114 &1036036167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004046564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Amfor\u0103 cu scene figurative"
+  description: "Aceast\u0103 amfor\u0103 decorativ\u0103 este inspirat\u0103 de ceramica
+    antic\u0103, fiind ornamentat\u0103 cu siluete figurative stilizate, realizate
+    \xEEn contrast cromatic puternic. Formele echilibrate ale vasului \u0219i compozi\u021Bia
+    decorului sugereaz\u0103 influen\u021Be ale artei grece\u0219ti, reinterpretate
+    \xEEntr-o manier\u0103 modern\u0103. Lucrarea pune accent pe armonia dintre func\u021Bionalitate
+    \u0219i expresie artistic\u0103, transform\xE2nd obiectul utilitar \xEEntr-un
+    element estetic de sine st\u0103t\u0103tor."
+  renderersToHighlight: []
 --- !u!1 &1072226759
 GameObject:
   m_ObjectHideFlags: 0
@@ -2420,6 +2952,7 @@ GameObject:
   - component: {fileID: 1072226763}
   - component: {fileID: 1072226762}
   - component: {fileID: 1072226761}
+  - component: {fileID: 1072226764}
   m_Layer: 0
   m_Name: AEMare (6)
   m_TagString: Untagged
@@ -2521,6 +3054,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072226759}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1072226764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1072226759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Pereche divin\u0103"
+  description: "Aceast\u0103 lucrare prezint\u0103 dou\u0103 figuri cu caracter divin,
+    redate \xEEntr-o compozi\u021Bie vertical\u0103, conform conven\u021Biilor iconografice
+    inspirate din Egiptul antic. Posturile rigide, profilurile clare \u0219i elementele
+    vestimentare simbolice accentueaz\u0103 ideea de ordine, complementaritate \u0219i
+    echilibru cosmic. Fundalul decorativ, bogat \xEEn semne \u0219i motive repetitive,
+    subliniaz\u0103 leg\u0103tura dintre imagine, sacralitate \u0219i structura spiritual\u0103
+    a lumii reprezentate."
+  renderersToHighlight: []
 --- !u!1001 &1072571220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2592,7 +3146,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1650199890616408, guid: 15eeb30f457f3da4e9514031c235f7ac, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1372279330}
+    - targetCorrespondingSourceObject: {fileID: 1650199890616408, guid: 15eeb30f457f3da4e9514031c235f7ac, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1372279329}
   m_SourcePrefab: {fileID: 100100000, guid: 15eeb30f457f3da4e9514031c235f7ac, type: 3}
 --- !u!1 &1083691372
 GameObject:
@@ -2606,6 +3166,7 @@ GameObject:
   - component: {fileID: 1083691376}
   - component: {fileID: 1083691375}
   - component: {fileID: 1083691374}
+  - component: {fileID: 1083691377}
   m_Layer: 0
   m_Name: AGMare (2)
   m_TagString: Untagged
@@ -2707,143 +3268,26 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1083691372}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1094073941
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1094073942}
-  - component: {fileID: 1094073944}
-  - component: {fileID: 1094073943}
-  m_Layer: 0
-  m_Name: InfoText
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1094073942
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094073941}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1866716752}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1094073943
+--- !u!114 &1083691377
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094073941}
+  m_GameObject: {fileID: 1083691372}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: New Text
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_characterHorizontalScale: 1
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1094073944
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1094073941}
-  m_CullTransparentMesh: 1
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Dans ritualic
+  description: "Aceast\u0103 lucrare ilustreaz\u0103 o scen\u0103 de dans ritualic,
+    \xEEn care figurile sunt surprinse \xEEn mi\u0219care, suger\xE2nd un act ceremonial
+    sau festiv. Personajele sunt redate \xEEntr-un stil simplificat, cu gesturi expresive
+    \u0219i ritm vizual accentuat de repeti\u021Bia formelor. Cromatica \u0219i textura
+    lucr\u0103rii evoc\u0103 pictura antic\u0103, iar compozi\u021Bia subliniaz\u0103
+    leg\u0103tura dintre mi\u0219care, comunitate \u0219i simbolism cultural."
+  renderersToHighlight: []
 --- !u!1001 &1099383309
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2925,6 +3369,7 @@ GameObject:
   - component: {fileID: 1110709386}
   - component: {fileID: 1110709385}
   - component: {fileID: 1110709384}
+  - component: {fileID: 1110709387}
   m_Layer: 0
   m_Name: AGMic (3)
   m_TagString: Untagged
@@ -3026,6 +3471,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1110709382}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1110709387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110709382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Apropiere divin\u0103"
+  description: "Aceast\u0103 lucrare reprezint\u0103 o scen\u0103 intim\u0103 cu
+    personaje mitologice, surprinse \xEEntr-un moment de apropiere \u0219i tandre\u021Be.
+    Compozi\u021Bia este dominat\u0103 de gesturi delicate \u0219i de o rela\u021Bie
+    subtil\u0103 \xEEntre priviri \u0219i posturi, suger\xE2nd leg\u0103tura dintre
+    uman \u0219i divin. Tratarea idealizat\u0103 a anatomiei \u0219i paleta cromatic\u0103
+    echilibrat\u0103 reflect\u0103 influen\u021Bele artei clasice, conferind scenei
+    o atmosfer\u0103 armonioas\u0103 \u0219i contemplativ\u0103."
+  renderersToHighlight: []
 --- !u!1001 &1162514252
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3093,7 +3559,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6954521613702764318, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1831859816}
   m_SourcePrefab: {fileID: 100100000, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
 --- !u!1 &1197269463
 GameObject:
@@ -3107,6 +3576,7 @@ GameObject:
   - component: {fileID: 1197269467}
   - component: {fileID: 1197269466}
   - component: {fileID: 1197269465}
+  - component: {fileID: 1197269468}
   m_Layer: 0
   m_Name: AGMic (7)
   m_TagString: Untagged
@@ -3208,6 +3678,28 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1197269463}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1197269468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197269463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Allegoria puterii
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 alegoric\u0103 \xEEn
+    care figura feminin\u0103 central\u0103 este \xEEnso\u021Bit\u0103 de personaje
+    simbolice, suger\xE2nd ideea de autoritate, echilibru \u0219i control. Postura
+    sigur\u0103, obiectele asociate \u0219i raportul dintre personaje construiesc
+    o compozi\u021Bie \xEEnc\u0103rcat\u0103 de semnifica\u021Bii morale \u0219i
+    politice. Tratarea atent\u0103 a anatomiei \u0219i a drapajelor, al\u0103turi
+    de fundalul arhitectural, eviden\u021Biaz\u0103 influen\u021Bele artei clasice
+    \u0219i caracterul narativ al scenei."
+  renderersToHighlight: []
 --- !u!1001 &1239329743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3329,6 +3821,7 @@ GameObject:
   - component: {fileID: 1251997855}
   - component: {fileID: 1251997854}
   - component: {fileID: 1251997853}
+  - component: {fileID: 1251997856}
   m_Layer: 0
   m_Name: AEMare (7)
   m_TagString: Untagged
@@ -3430,6 +3923,164 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1251997851}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1251997856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251997851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Portret regal
+  description: "Aceast\u0103 lucrare reprezint\u0103 un portret stilizat al unei
+    figuri regale, redat\u0103 \xEEn profil, conform conven\u021Biilor artistice
+    inspirate din Egiptul antic. Tr\u0103s\u0103turile idealizate, ornamentele elaborate
+    \u0219i fundalul compus din simboluri decorative accentueaz\u0103 statutul social
+    \u0219i sacral al personajului. Compozi\u021Bia pune accent pe claritatea formelor
+    \u0219i pe echilibrul vizual, suger\xE2nd leg\u0103tura dintre autoritate, divinitate
+    \u0219i ordine cosmic\u0103."
+  renderersToHighlight: []
+--- !u!1 &1260139884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1260139885}
+  - component: {fileID: 1260139887}
+  - component: {fileID: 1260139886}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1260139885
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260139884}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 428917169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1260139886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260139884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Close
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4281479730
+  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 24
+  m_fontSizeBase: 24
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1260139887
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260139884}
+  m_CullTransparentMesh: 1
 --- !u!1 &1277171664
 GameObject:
   m_ObjectHideFlags: 0
@@ -3442,6 +4093,7 @@ GameObject:
   - component: {fileID: 1277171668}
   - component: {fileID: 1277171667}
   - component: {fileID: 1277171666}
+  - component: {fileID: 1277171669}
   m_Layer: 0
   m_Name: AEMare (4)
   m_TagString: Untagged
@@ -3543,11 +4195,149 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1277171664}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1277171669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1277171664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Ritual al zeilor
+  description: "Aceast\u0103 lucrare \xEEnf\u0103\u021Bi\u0219eaz\u0103 o scen\u0103
+    ritualic\u0103 \xEEn care personaje cu tr\u0103s\u0103turi divine \u0219i simbolice
+    particip\u0103 la un act ceremonial. Compozi\u021Bia este construit\u0103 dup\u0103
+    reguli stricte de ierarhie \u0219i propor\u021Bie, specifice artei inspirate
+    din Egiptul antic. Cromatica intens\u0103 \u0219i detaliile iconografice eviden\u021Biaz\u0103
+    caracterul sacru al scenei, suger\xE2nd rela\u021Bia dintre oameni, zei \u0219i
+    ordinea cosmic\u0103."
+  renderersToHighlight: []
 --- !u!4 &1285947317 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4857655974557594, guid: 30a3561e72e42d045a72040495368d04, type: 3}
   m_PrefabInstance: {fileID: 476839840}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1285947318
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53316356}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1.6151441, z: 1}
+  m_Center: {x: 0, y: 0.6924308, z: 0}
+--- !u!114 &1285947319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53316356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Vas cu procesiune ritualic\u0103"
+  description: "Acest vas decorativ prezint\u0103 o compozi\u021Bie figurativ\u0103
+    dispus\u0103 \xEEn registru continuu, suger\xE2nd o scen\u0103 de procesiune
+    ritualic\u0103. Siluetele stilizate, realizate \xEEn contrast cromatic, evoc\u0103
+    influen\u021Be ale ceramicii antice, reinterpretate \xEEntr-o estetic\u0103 modern\u0103.
+    Forma echilibrat\u0103 \u0219i propor\u021Biile atent controlate subliniaz\u0103
+    rolul decorativ al obiectului, eviden\u021Biind leg\u0103tura dintre tradi\u021Bie
+    \u0219i expresie artistic\u0103 contemporan\u0103."
+  renderersToHighlight: []
+--- !u!1 &1315325689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1315325690}
+  - component: {fileID: 1315325692}
+  - component: {fileID: 1315325691}
+  m_Layer: 5
+  m_Name: Crosshair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1315325690
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315325689}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 430695322}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 6, y: 6}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1315325691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315325689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1315325692
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315325689}
+  m_CullTransparentMesh: 1
 --- !u!4 &1316628596 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8909cdaa722a19348997bc88de3df6d9, type: 3}
@@ -3565,6 +4355,7 @@ GameObject:
   - component: {fileID: 1323498592}
   - component: {fileID: 1323498591}
   - component: {fileID: 1323498590}
+  - component: {fileID: 1323498593}
   m_Layer: 0
   m_Name: AGMic (9)
   m_TagString: Untagged
@@ -3666,6 +4457,26 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1323498588}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1323498593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323498588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "\xCEnv\u0103\u021B\u0103tur\u0103 \u0219i credin\u021B\u0103"
+  description: "Aceast\u0103 lucrare surprinde un moment de transmitere a cunoa\u0219terii
+    \u0219i a credin\u021Bei, redat prin interac\u021Biunea atent\u0103 dintre personaje.
+    Gesturile discrete \u0219i privirile concentrate sugereaz\u0103 un act de \xEEnv\u0103\u021B\u0103tur\u0103
+    sau revela\u021Bie spiritual\u0103. Fundalul arhitectural amplu \u0219i atmosfera
+    solemn\u0103 contribuie la profunzimea scenei, eviden\u021Biind influen\u021Bele
+    picturii clasice \u0219i caracterul contemplativ al compozi\u021Biei."
+  renderersToHighlight: []
 --- !u!1 &1325755215
 GameObject:
   m_ObjectHideFlags: 0
@@ -3678,6 +4489,7 @@ GameObject:
   - component: {fileID: 1325755219}
   - component: {fileID: 1325755218}
   - component: {fileID: 1325755217}
+  - component: {fileID: 1325755220}
   m_Layer: 0
   m_Name: AEhorizontal (1)
   m_TagString: Untagged
@@ -3779,37 +4591,164 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1325755215}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1365803406 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6100051382755329669, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-  m_PrefabInstance: {fileID: 1560546211}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &1365803409
-BoxCollider:
+--- !u!114 &1325755220
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365803406}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_GameObject: {fileID: 1325755215}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!4 &1365803411 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-  m_PrefabInstance: {fileID: 1560546211}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Ofert\u0103 sacr\u0103"
+  description: "Aceast\u0103 lucrare \xEEnf\u0103\u021Bi\u0219eaz\u0103 o scen\u0103
+    de ofrand\u0103, \xEEn care figurile sunt redate conform conven\u021Biilor iconografice
+    inspirate din Egiptul antic. Personajele sunt dispuse \xEEntr-o compozi\u021Bie
+    organizat\u0103, \xEEnconjurate de simboluri \u0219i semne decorative ce subliniaz\u0103
+    caracterul ritualic al actului reprezentat. Cromatica variat\u0103 \u0219i structura
+    narativ\u0103 sugereaz\u0103 leg\u0103tura dintre gestul ofrandei, sacralitate
+    \u0219i ordinea spiritual\u0103 a lumii."
+  renderersToHighlight: []
+--- !u!1 &1356107727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1356107728}
+  - component: {fileID: 1356107730}
+  - component: {fileID: 1356107729}
+  m_Layer: 5
+  m_Name: BodyText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1356107728
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356107727}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 4.8803, y: 4.8803, z: 4.8803}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1010336238}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 8, y: -35}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1356107729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356107727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 4
+  m_fontSizeBase: 4
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1356107730
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356107727}
+  m_CullTransparentMesh: 1
 --- !u!1 &1366114166
 GameObject:
   m_ObjectHideFlags: 0
@@ -3822,6 +4761,7 @@ GameObject:
   - component: {fileID: 1366114170}
   - component: {fileID: 1366114169}
   - component: {fileID: 1366114168}
+  - component: {fileID: 1366114171}
   m_Layer: 0
   m_Name: AEMare (2)
   m_TagString: Untagged
@@ -3923,6 +4863,74 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1366114166}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1366114171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366114166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Scen\u0103 ceremonial\u0103"
+  description: "Aceast\u0103 lucrare ilustreaz\u0103 o scen\u0103 ceremonial\u0103
+    cu personaje redate conform conven\u021Biilor iconografice inspirate din Egiptul
+    antic. Compozi\u021Bia este organizat\u0103 \xEEntr-un registru clar, cu figuri
+    hieratice \u0219i simboluri decorative care transmit o nara\u021Biune ritualic\u0103.
+    Rela\u021Bia dintre personaje, obiecte \u0219i elemente naturale subliniaz\u0103
+    importan\u021Ba ordinii, sacralit\u0103\u021Bii \u0219i rolului ceremonial al
+    imaginilor \xEEn exprimarea credin\u021Belor \u0219i valorilor culturale."
+  renderersToHighlight: []
+--- !u!1 &1372279328 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1650199890616408, guid: 15eeb30f457f3da4e9514031c235f7ac, type: 3}
+  m_PrefabInstance: {fileID: 1072571220}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1372279329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372279328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Vas cu scene domestice
+  description: "Acest vas decorativ este ornamentat cu scene figurative ce sugereaz\u0103
+    activit\u0103\u021Bi cotidiene, redate \xEEntr-un stil stilizat \u0219i echilibrat.
+    Compozi\u021Bia este organizat\u0103 \xEEn registre clare, iar detaliile decorative
+    de pe buza \u0219i baza vasului accentueaz\u0103 unitatea vizual\u0103 a obiectului.
+    Influen\u021Bele artei clasice sunt reinterpretate \xEEntr-o manier\u0103 modern\u0103,
+    pun\xE2nd \xEEn valoare rela\u021Bia dintre form\u0103, func\u021Bie \u0219i
+    nara\u021Biune vizual\u0103."
+  renderersToHighlight: []
+--- !u!65 &1372279330
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372279328}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1.6249676, z: 1}
+  m_Center: {x: 0, y: 0.7769966, z: 0}
 --- !u!1001 &1385950910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4068,7 +5076,7 @@ PrefabInstance:
       addedObject: {fileID: 244644916}
     - targetCorrespondingSourceObject: {fileID: 7590453392888686472, guid: c58829182f121f24aa5317a22823ca57, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 244644915}
+      addedObject: {fileID: 244644918}
     - targetCorrespondingSourceObject: {fileID: 8935066204742433684, guid: c58829182f121f24aa5317a22823ca57, type: 3}
       insertIndex: -1
       addedObject: {fileID: 295238502}
@@ -4085,6 +5093,7 @@ GameObject:
   - component: {fileID: 1395931256}
   - component: {fileID: 1395931255}
   - component: {fileID: 1395931254}
+  - component: {fileID: 1395931257}
   m_Layer: 0
   m_Name: AGMic (1)
   m_TagString: Untagged
@@ -4186,6 +5195,28 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1395931252}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1395931257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395931252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Viziune apocaliptic\u0103"
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 complex\u0103, cu
+    numeroase personaje \u0219i elemente arhitecturale, suger\xE2nd un moment de
+    criz\u0103 sau revela\u021Bie colectiv\u0103. Compozi\u021Bia ampl\u0103 \u0219i
+    dinamica figurilor transmit un sentiment de agita\u021Bie \u0219i tensiune, \xEEn
+    timp ce elementele simbolice din planul superior sugereaz\u0103 o interven\u021Bie
+    supranatural\u0103. Influen\u021Bele clasice sunt evidente \xEEn construc\u021Bia
+    scenei \u0219i \xEEn tratarea perspectivei, oferind lucr\u0103rii un caracter
+    narativ puternic."
+  renderersToHighlight: []
 --- !u!1 &1411524928
 GameObject:
   m_ObjectHideFlags: 0
@@ -4198,6 +5229,7 @@ GameObject:
   - component: {fileID: 1411524932}
   - component: {fileID: 1411524931}
   - component: {fileID: 1411524930}
+  - component: {fileID: 1411524933}
   m_Layer: 0
   m_Name: AEMic (4)
   m_TagString: Untagged
@@ -4299,6 +5331,26 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1411524928}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1411524933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411524928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Dialog sacru
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 simbolic\u0103 de
+    dialog sau ofrand\u0103 \xEEntre dou\u0103 personaje, redate conform conven\u021Biilor
+    iconografice inspirate din arta egiptean\u0103. Posturile rigide, gesturile ceremoniale
+    \u0219i elementele decorative subliniaz\u0103 caracterul ritualic al scenei.
+    Compozi\u021Bia echilibrat\u0103 \u0219i cromatica cald\u0103 sugereaz\u0103
+    ideea de armonie, comunicare sacr\u0103 \u0219i ordine spiritual\u0103."
+  renderersToHighlight: []
 --- !u!1 &1460690208 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8603541622604761643, guid: 3e9c5dd9ecf76484db97eae260f0c0ec, type: 3}
@@ -4338,6 +5390,7 @@ GameObject:
   - component: {fileID: 1486686258}
   - component: {fileID: 1486686257}
   - component: {fileID: 1486686256}
+  - component: {fileID: 1486686259}
   m_Layer: 0
   m_Name: AGMare (3)
   m_TagString: Untagged
@@ -4439,129 +5492,53 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1486686254}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1486686259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486686254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Scen\u0103 de banchet"
+  description: "Aceast\u0103 lucrare mural\u0103 reprezint\u0103 o scen\u0103 de
+    banchet, cu personaje dispuse \xEEntr-o compozi\u021Bie narativ\u0103 ampl\u0103.
+    Figurile sunt redate \xEEntr-un stil stilizat, iar cromatica cald\u0103 \u0219i
+    texturile erodate sugereaz\u0103 influen\u021Be ale picturii antice. Lucrarea
+    pune accent pe rela\u021Biile sociale \u0219i pe ritualul convivialit\u0103\u021Bii,
+    evoc\xE2nd atmosfera ceremonial\u0103 \u0219i cotidian\u0103 a reuniunilor din
+    culturile vechi."
+  renderersToHighlight: []
 --- !u!4 &1487403733 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4250370398200255273, guid: 9998822898a821340bfeffd88b666862, type: 3}
   m_PrefabInstance: {fileID: 2030086236}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1526505551 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1928753549183166, guid: 9fc36df6c286ca14d8f14a5310be6c78, type: 3}
-  m_PrefabInstance: {fileID: 524771248}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &1526505552
-BoxCollider:
+--- !u!114 &1487403737
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1526505551}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_GameObject: {fileID: 241353171}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1001 &1560546211
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 152665224}
-    m_Modifications:
-    - target: {fileID: 1852795204499532622, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_Size
-      value: 0.56455964
-      objectReference: {fileID: 0}
-    - target: {fileID: 1852795204499532622, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalReferencePoint.x
-      value: 0.00387609
-      objectReference: {fileID: 0}
-    - target: {fileID: 1852795204499532622, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalReferencePoint.y
-      value: 0.28677633
-      objectReference: {fileID: 0}
-    - target: {fileID: 1852795204499532622, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalReferencePoint.z
-      value: 0.19399598
-      objectReference: {fileID: 0}
-    - target: {fileID: 6100051382755329669, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_Name
-      value: Male Figure
-      objectReference: {fileID: 0}
-    - target: {fileID: 6506291361810606804, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 56af04c53908de64a89028f07f1d484d, type: 2}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.8927001
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.8927
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.8927001
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 16.874
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.067
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.826
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.055679865
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.99844867
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 173.616
-      objectReference: {fileID: 0}
-    - target: {fileID: 6912019123055844415, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6100051382755329669, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1365803409}
-  m_SourcePrefab: {fileID: 100100000, guid: aa48c47149f986045a6694fe3b8dd0a7, type: 3}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Portret interior
+  description: "Aceast\u0103 sculptur\u0103 de tip bust surprinde o figur\u0103 feminin\u0103
+    \xEEntr-un moment de introspec\u021Bie, sugerat de \xEEnclinarea capului \u0219i
+    de expresia calm\u0103 a tr\u0103s\u0103turilor. Lipsa bra\u021Belor \u0219i
+    tratarea fragmentar\u0103 a corpului concentreaz\u0103 aten\u021Bia asupra fe\u021Bei
+    \u0219i a volumelor principale, accentu\xE2nd caracterul expresiv al lucr\u0103rii.
+    Suprafe\u021Bele netede, u\u0219or patinate, contribuie la senza\u021Bia de delicate\u021Be
+    \u0219i intimitate, invit\xE2nd privitorul la contemplare."
+  renderersToHighlight: []
 --- !u!1 &1562304218
 GameObject:
   m_ObjectHideFlags: 0
@@ -4574,6 +5551,7 @@ GameObject:
   - component: {fileID: 1562304222}
   - component: {fileID: 1562304221}
   - component: {fileID: 1562304220}
+  - component: {fileID: 1562304223}
   m_Layer: 0
   m_Name: AEMare (3)
   m_TagString: Untagged
@@ -4675,6 +5653,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562304218}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1562304223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562304218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Ritual funerar
+  description: "Aceast\u0103 lucrare reprezint\u0103 un ritual funerar inspirat din
+    iconografia egiptean\u0103, \xEEn care o figur\u0103 divin\u0103 cu cap de \u0219acal
+    este surprins\u0103 \xEEntr-un act ceremonial. Fundalul este acoperit de inscrip\u021Bii
+    simbolice, care sugereaz\u0103 leg\u0103tura dintre text, imagine \u0219i sacralitate.
+    Compozi\u021Bia pune accent pe ideea de protec\u021Bie \u0219i trecere c\u0103tre
+    via\u021Ba de apoi, reflect\xE2nd concep\u021Biile spirituale ale unei culturi
+    orientate spre ritual \u0219i eternitate."
+  renderersToHighlight: []
 --- !u!1 &1562542180
 GameObject:
   m_ObjectHideFlags: 0
@@ -4687,6 +5686,7 @@ GameObject:
   - component: {fileID: 1562542184}
   - component: {fileID: 1562542183}
   - component: {fileID: 1562542182}
+  - component: {fileID: 1562542185}
   m_Layer: 0
   m_Name: AEMic (3)
   m_TagString: Untagged
@@ -4788,6 +5788,74 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562542180}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1562542185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562542180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Jocul spiritelor
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 ludic\u0103 cu personaje
+    stilizate, \xEEnf\u0103\u021Bi\u0219ate \xEEntr-o activitate simbolic\u0103 ce
+    sugereaz\u0103 un joc ritualic sau o confruntare metaforic\u0103. Compozi\u021Bia
+    simpl\u0103 \u0219i expresiv\u0103, al\u0103turi de elementele decorative reduse,
+    pune accent pe gesturi \u0219i interac\u021Biune. Atmosfera general\u0103 evoc\u0103
+    un univers simbolic, \xEEn care jocul devine un mijloc de exprimare a rela\u021Biei
+    dintre om, spirit \u0219i destin."
+  renderersToHighlight: []
+--- !u!1 &1585473992 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1143180963066806, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
+  m_PrefabInstance: {fileID: 1798061760}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1585473995
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585473992}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.6038706, y: 1.9640298, z: 1.6327872}
+  m_Center: {x: -0.30193523, y: 0.44960213, z: 0.31639344}
+--- !u!114 &1585473998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585473992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Arahnid mecanic
+  description: "Aceast\u0103 sculptur\u0103 reprezint\u0103 o interpretare mecanizat\u0103
+    a formei de arahnid, combin\xE2nd elemente organice cu structuri geometrice rigide.
+    Suprafe\u021Bele metalice \u0219i accentele decorative sugereaz\u0103 o estetic\u0103
+    inspirat\u0103 din universul tehnologic \u0219i din mitologiile moderne. Lucrarea
+    exploreaz\u0103 rela\u021Bia dintre natur\u0103 \u0219i mecanic\u0103, propun\xE2nd
+    o reflec\u021Bie asupra transform\u0103rii formelor vii prin intermediul tehnologiei
+    \u0219i imagina\u021Biei artistice."
+  renderersToHighlight: []
 --- !u!1 &1589328617
 GameObject:
   m_ObjectHideFlags: 0
@@ -4800,6 +5868,7 @@ GameObject:
   - component: {fileID: 1589328621}
   - component: {fileID: 1589328620}
   - component: {fileID: 1589328619}
+  - component: {fileID: 1589328622}
   m_Layer: 0
   m_Name: AEMic (2)
   m_TagString: Untagged
@@ -4901,6 +5970,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1589328617}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1589328622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589328617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Gest ritualic
+  description: "Aceast\u0103 lucrare fragmentar\u0103 surprinde o figur\u0103 uman\u0103
+    redat\u0103 \xEEntr-o postur\u0103 expresiv\u0103, suger\xE2nd un gest ritualic
+    sau ceremonial. Starea de conservare \u0219i marginile neregulate contribuie
+    la impresia de vechime \u0219i autenticitate, iar cromatica estompat\u0103 accentueaz\u0103
+    caracterul istoric al imaginii. Compozi\u021Bia simpl\u0103 \u0219i gestica ampl\u0103
+    transmit ideea de mi\u0219care \u0219i semnifica\u021Bie simbolic\u0103, evoc\xE2nd
+    practicile \u0219i credin\u021Bele culturilor antice."
+  renderersToHighlight: []
 --- !u!1 &1624041881
 GameObject:
   m_ObjectHideFlags: 0
@@ -4913,6 +6003,7 @@ GameObject:
   - component: {fileID: 1624041885}
   - component: {fileID: 1624041884}
   - component: {fileID: 1624041883}
+  - component: {fileID: 1624041886}
   m_Layer: 0
   m_Name: AGMic (2)
   m_TagString: Untagged
@@ -5014,6 +6105,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1624041881}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1624041886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1624041881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Sacrificiul
+  description: "Aceast\u0103 lucrare surprinde un moment tensionat, \xEEnc\u0103rcat
+    de semnifica\u021Bie simbolic\u0103, \xEEn care figura uman\u0103 este redat\u0103
+    \xEEntr-o postur\u0103 vulnerabil\u0103. Compozi\u021Bia echilibrat\u0103, dar
+    intens expresiv\u0103, pune accent pe contrastul dintre calmul aparent \u0219i
+    gravitatea ac\u021Biunii reprezentate. Influen\u021Bele artei clasice sunt vizibile
+    \xEEn tratarea anatomiei \u0219i \xEEn folosirea luminii, care accentueaz\u0103
+    dramatismul scenei \u0219i profunzimea emo\u021Bional\u0103 a subiectului."
+  renderersToHighlight: []
 --- !u!1001 &1624634937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5081,7 +6193,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6954521613702764318, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1850699843}
   m_SourcePrefab: {fileID: 100100000, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
 --- !u!1 &1657148240
 GameObject:
@@ -5095,6 +6210,7 @@ GameObject:
   - component: {fileID: 1657148244}
   - component: {fileID: 1657148243}
   - component: {fileID: 1657148242}
+  - component: {fileID: 1657148245}
   m_Layer: 0
   m_Name: AGMic (4)
   m_TagString: Untagged
@@ -5196,6 +6312,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657148240}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1657148245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657148240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "C\u0103derea"
+  description: "Aceast\u0103 lucrare surprinde o scen\u0103 intens dramatic\u0103,
+    dominat\u0103 de mi\u0219care, tensiune \u0219i contrast puternic \xEEntre lumin\u0103
+    \u0219i umbr\u0103. Corpul uman este redat \xEEntr-o pozi\u021Bie instabil\u0103,
+    suger\xE2nd o pr\u0103bu\u0219ire fizic\u0103 \u0219i simbolic\u0103. Tratarea
+    expresiv\u0103 a anatomiei \u0219i fundalul \xEEntunecat accentueaz\u0103 sentimentul
+    de vulnerabilitate \u0219i conflict interior, evoc\xE2nd teme precum pedeapsa,
+    suferin\u021Ba sau pierderea controlului."
+  renderersToHighlight: []
 --- !u!1 &1674070356
 GameObject:
   m_ObjectHideFlags: 0
@@ -5208,6 +6345,7 @@ GameObject:
   - component: {fileID: 1674070360}
   - component: {fileID: 1674070359}
   - component: {fileID: 1674070358}
+  - component: {fileID: 1674070361}
   m_Layer: 0
   m_Name: AGMare (5)
   m_TagString: Untagged
@@ -5309,6 +6447,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1674070356}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1674070361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674070356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "For\u021Ba destinului"
+  description: "Aceast\u0103 lucrare prezint\u0103 dou\u0103 personaje surprinse
+    \xEEntr-o compozi\u021Bie tensionat\u0103, dominat\u0103 de mi\u0219care \u0219i
+    emo\u021Bie. Gesturile ample \u0219i expresiile dramatice sugereaz\u0103 un conflict
+    sau o confruntare cu o for\u021B\u0103 superioar\u0103, simboliz\xE2nd lupta
+    dintre voin\u021Ba uman\u0103 \u0219i destin. Contrastul dintre lumin\u0103 \u0219i
+    umbre, precum \u0219i tratarea dinamic\u0103 a corpului, trimit la tradi\u021Bia
+    picturii clasice, pun\xE2nd accent pe intensitatea narativ\u0103 a scenei."
+  renderersToHighlight: []
 --- !u!1 &1691346069
 GameObject:
   m_ObjectHideFlags: 0
@@ -5321,6 +6480,7 @@ GameObject:
   - component: {fileID: 1691346073}
   - component: {fileID: 1691346072}
   - component: {fileID: 1691346071}
+  - component: {fileID: 1691346074}
   m_Layer: 0
   m_Name: AGMare (4)
   m_TagString: Untagged
@@ -5422,6 +6582,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691346069}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1691346074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1691346069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Moment de reflec\u021Bie"
+  description: "Aceast\u0103 lucrare surprinde o figur\u0103 masculin\u0103 \xEEntr-un
+    moment de introspec\u021Bie, plasat\u0103 \xEEntr-un cadru natural dramatic.
+    Pozi\u021Bia corpului \u0219i gestul m\xE2inii sugereaz\u0103 o stare de reflec\u021Bie
+    sau deliberare, \xEEn timp ce compozi\u021Bia echilibrat\u0103 pune accent pe
+    rela\u021Bia dintre om \u0219i mediul \xEEnconjur\u0103tor. Influen\u021Bele
+    clasice sunt evidente \xEEn tratarea anatomiei \u0219i \xEEn modelarea luminii,
+    conferind scenei o atmosfer\u0103 solemn\u0103 \u0219i contemplativ\u0103."
+  renderersToHighlight: []
 --- !u!1 &1696667180
 GameObject:
   m_ObjectHideFlags: 0
@@ -5434,6 +6615,7 @@ GameObject:
   - component: {fileID: 1696667184}
   - component: {fileID: 1696667183}
   - component: {fileID: 1696667182}
+  - component: {fileID: 1696667185}
   m_Layer: 0
   m_Name: AEMare
   m_TagString: Untagged
@@ -5535,6 +6717,164 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696667180}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1696667185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696667180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Zeitate protectoare
+  description: "Aceast\u0103 lucrare reprezint\u0103 o figur\u0103 divin\u0103 central\u0103,
+    \xEEnconjurat\u0103 de simboluri \u0219i personaje secundare, \xEEntr-o compozi\u021Bie
+    dens\u0103 \u0219i ierarhic\u0103. Personajul principal este redat frontal \u0219i
+    domin\u0103 scena, subliniind rolul de protec\u021Bie \u0219i autoritate spiritual\u0103.
+    Bog\u0103\u021Bia detaliilor, cromatica intens\u0103 \u0219i organizarea strict\u0103
+    a elementelor vizuale reflect\u0103 influen\u021Ba artei egiptene, unde imaginea
+    avea rol ritualic \u0219i narrativ."
+  renderersToHighlight: []
+--- !u!1 &1698090113
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1698090114}
+  - component: {fileID: 1698090116}
+  - component: {fileID: 1698090115}
+  m_Layer: 5
+  m_Name: InteractHintText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1698090114
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698090113}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 430695322}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 130, y: 243}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1698090115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698090113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Press E
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 15
+  m_fontSizeBase: 15
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1698090116
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698090113}
+  m_CullTransparentMesh: 1
 --- !u!4 &1726220792 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7766664415997840804, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
@@ -5552,6 +6892,7 @@ GameObject:
   - component: {fileID: 1752858357}
   - component: {fileID: 1752858356}
   - component: {fileID: 1752858355}
+  - component: {fileID: 1752858358}
   m_Layer: 0
   m_Name: AEMic
   m_TagString: Untagged
@@ -5653,6 +6994,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1752858353}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1752858358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752858353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Ochiul protector
+  description: "Aceast\u0103 lucrare reprezint\u0103 simbolul ochiului protector,
+    asociat ideii de vigilen\u021B\u0103, protec\u021Bie \u0219i ordine spiritual\u0103.
+    Compozi\u021Bia fragmentat\u0103 \u0219i suprapunerea elementelor decorative
+    sugereaz\u0103 o reinterpretare modern\u0103 a motivelor antice. Cromatica intens\u0103
+    \u0219i liniile ferme accentueaz\u0103 caracterul simbolic al imaginii, evoc\xE2nd
+    rolul ochiului ca element de ap\u0103rare \u0219i echilibru \xEEntre for\u021Bele
+    vizibile \u0219i cele invizibile."
+  renderersToHighlight: []
 --- !u!1001 &1798061760
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5667,19 +7029,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.165
+      value: 16.35
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.016
+      value: -0.016000003
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.91
+      value: 8.86
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.36431068
+      value: -0.2675954
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalRotation.x
@@ -5687,7 +7049,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.9312775
+      value: 0.96353143
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalRotation.z
@@ -5699,7 +7061,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 137.27
+      value: 211.042
       objectReference: {fileID: 0}
     - target: {fileID: 4308944480718410, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -5712,7 +7074,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1143180963066806, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1585473995}
+    - targetCorrespondingSourceObject: {fileID: 1143180963066806, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1585473998}
   m_SourcePrefab: {fileID: 100100000, guid: f7769b1fc067cae44b63ccdcc8288127, type: 3}
 --- !u!1001 &1799305306
 PrefabInstance:
@@ -5818,129 +7186,58 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
   m_PrefabInstance: {fileID: 1799305306}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1802676534 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-  m_PrefabInstance: {fileID: 1833553380}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1831859812 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7766664415997840804, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
   m_PrefabInstance: {fileID: 1162514252}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1833553380
-PrefabInstance:
+--- !u!114 &1831859816
+MonoBehaviour:
   m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 152665224}
-    m_Modifications:
-    - target: {fileID: 1575860890064231406, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_Name
-      value: Egypt Pharoah Bust
-      objectReference: {fileID: 0}
-    - target: {fileID: 1709088819066404834, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2167bf406ee02174ca54d3defdf72aca, type: 2}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.9799
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2.9799
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.9799
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9.584
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.126
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.559101
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.007060521
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.9999751
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 1260.809
-      objectReference: {fileID: 0}
-    - target: {fileID: 2203744068000137556, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3383041936490543553, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_ScaleInLightmap
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4944676160292931868, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_ScaleInLightmap
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_Size
-      value: 0.4019609
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_FadeMode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LocalReferencePoint.y
-      value: 0.20098045
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LODs.Array.data[1].renderers.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LODs.Array.data[2].renderers.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LODs.Array.data[1].renderers.Array.data[1].renderer
-      value: 
-      objectReference: {fileID: 652401713}
-    - target: {fileID: 6399432708712003109, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
-      propertyPath: m_LODs.Array.data[2].renderers.Array.data[1].renderer
-      value: 
-      objectReference: {fileID: 652401713}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 185020f0b3bdbd14191b074cb8ea2fab, type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60772369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Lama ceremonial\u0103"
+  description: "Aceast\u0103 lam\u0103 cu form\u0103 alungit\u0103 este inspirat\u0103
+    de armele tradi\u021Bionale utilizate at\xE2t \xEEn contexte ceremoniale, c\xE2t
+    \u0219i func\u021Bionale. Profilul curbat al lamei sugereaz\u0103 o utilizare
+    precis\u0103, iar finisajul u\u0219or patinat indic\u0103 trecerea timpului \u0219i
+    expunerea \xEEndelungat\u0103. M\xE2nerul, realizat pentru stabilitate \u0219i
+    control, completeaz\u0103 echilibrul dintre utilitate \u0219i expresie estetic\u0103,
+    transform\xE2nd obiectul \xEEntr-un artefact cu valoare simbolic\u0103."
+  renderersToHighlight: []
+--- !u!1 &1850699839 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6954521613702764318, guid: 1bb1c45bf59b5344f90e1c310d615e03, type: 3}
+  m_PrefabInstance: {fileID: 1624634937}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1850699843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850699839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Lama ceremonial\u0103"
+  description: "Aceast\u0103 lam\u0103 cu form\u0103 alungit\u0103 este inspirat\u0103
+    de armele tradi\u021Bionale utilizate at\xE2t \xEEn contexte ceremoniale, c\xE2t
+    \u0219i func\u021Bionale. Profilul curbat al lamei sugereaz\u0103 o utilizare
+    precis\u0103, iar finisajul u\u0219or patinat indic\u0103 trecerea timpului \u0219i
+    expunerea \xEEndelungat\u0103. M\xE2nerul, realizat pentru stabilitate \u0219i
+    control, completeaz\u0103 echilibrul dintre utilitate \u0219i expresie estetic\u0103,
+    transform\xE2nd obiectul \xEEntr-un artefact cu valoare simbolic\u0103."
+  renderersToHighlight: []
 --- !u!1 &1858607065 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
@@ -5973,103 +7270,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bd6fd9fc30674342ebb520dc52b82937, type: 3}
   m_PrefabInstance: {fileID: 218511470}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1858607068
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1858607065}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &1866716751
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1866716752}
-  - component: {fileID: 1866716754}
-  - component: {fileID: 1866716753}
-  m_Layer: 0
-  m_Name: InfoPanel
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &1866716752
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866716751}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1094073942}
-  m_Father: {fileID: 282560795}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1866716753
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866716751}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1866716754
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866716751}
-  m_CullTransparentMesh: 1
 --- !u!1 &1928900873
 GameObject:
   m_ObjectHideFlags: 0
@@ -6161,6 +7361,7 @@ GameObject:
   - component: {fileID: 1945638518}
   - component: {fileID: 1945638517}
   - component: {fileID: 1945638516}
+  - component: {fileID: 1945638519}
   m_Layer: 0
   m_Name: AGMic (5)
   m_TagString: Untagged
@@ -6262,6 +7463,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1945638514}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1945638519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1945638514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: Extaz celest
+  description: "Aceast\u0103 lucrare prezint\u0103 o scen\u0103 de eleva\u021Bie
+    spiritual\u0103, \xEEn care figurile umane \u0219i angelice sunt surprinse \xEEntr-o
+    compozi\u021Bie fluid\u0103 \u0219i dinamic\u0103. Mi\u0219carea ascendent\u0103,
+    jocul luminii \u0219i tratarea vaporos\u0103 a formelor sugereaz\u0103 ideea
+    de transcendere \u0219i comuniune cu planul divin. Influen\u021Bele artei clasice
+    sunt evidente \xEEn modelarea corpului \u0219i \xEEn expresivitatea gesturilor,
+    conferind scenei o atmosfer\u0103 intens emo\u021Bional\u0103 \u0219i contemplativ\u0103."
+  renderersToHighlight: []
 --- !u!1 &1984752761
 GameObject:
   m_ObjectHideFlags: 0
@@ -6274,6 +7496,7 @@ GameObject:
   - component: {fileID: 1984752765}
   - component: {fileID: 1984752764}
   - component: {fileID: 1984752763}
+  - component: {fileID: 1984752766}
   m_Layer: 0
   m_Name: AGMic (8)
   m_TagString: Untagged
@@ -6375,6 +7598,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1984752761}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1984752766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1984752761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd7a141c748993488987ea9338aa3be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ExhibitInfo
+  title: "Zborul c\u0103zut"
+  description: "Aceast\u0103 lucrare surprinde un moment dramatic al mitului zborului,
+    \xEEn care figura uman\u0103 este redat\u0103 \xEEn c\u0103dere, \xEEntr-o compozi\u021Bie
+    dominat\u0103 de mi\u0219care \u0219i tensiune. Aripile desf\u0103cute \u0219i
+    postura instabil\u0103 sugereaz\u0103 pierderea controlului \u0219i fragilitatea
+    aspira\u021Biei umane. Contrastul dintre cerul vast \u0219i corpul aflat \xEEn
+    declin accentueaz\u0103 caracterul tragic al scenei, evoc\xE2nd teme precum hybrisul,
+    limitele \u0219i destinul."
+  renderersToHighlight: []
 --- !u!1001 &2030086236
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6446,7 +7690,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3582483722785491347, guid: 9998822898a821340bfeffd88b666862, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1487403737}
   m_SourcePrefab: {fileID: 100100000, guid: 9998822898a821340bfeffd88b666862, type: 3}
 --- !u!1 &2034684499 stripped
 GameObject:
@@ -6485,7 +7732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2104713193}
   - component: {fileID: 2104713195}
-  - component: {fileID: 2104713194}
+  - component: {fileID: 2104713196}
   m_Layer: 0
   m_Name: FirstPerson
   m_TagString: Untagged
@@ -6501,29 +7748,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2104713192}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2, z: 0}
+  m_LocalRotation: {x: -0, y: -0.050531212, z: -0, w: -0.9987225}
+  m_LocalPosition: {x: -5.860001, y: 2, z: 5.6800003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 120612132}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2104713194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2104713192}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7533f65b96ff545458fc28e78d751d7a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SimpleMovement
-  speed: 5
-  sensitivity: 2
-  playerCamera: {fileID: 120612132}
+  m_LocalEulerAnglesHint: {x: 0, y: 3245.793, z: 0}
 --- !u!143 &2104713195
 CharacterController:
   m_ObjectHideFlags: 0
@@ -6549,6 +7781,22 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2104713196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104713192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7533f65b96ff545458fc28e78d751d7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  speed: 5
+  sensitivity: 2
+  playerCamera: {fileID: 120612132}
+  inputEnabled: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6557,3 +7805,5 @@ SceneRoots:
   - {fileID: 152665221}
   - {fileID: 2104713193}
   - {fileID: 1928900876}
+  - {fileID: 430695322}
+  - {fileID: 920579456}

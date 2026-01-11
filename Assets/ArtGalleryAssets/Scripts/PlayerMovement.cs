@@ -4,7 +4,10 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
     public float sensitivity = 2f;
-    public Transform playerCamera; // Adaugam asta pentru a seta camera manual
+    public Transform playerCamera;
+
+    [Header("Input lock (set from MuseumInteractor)")]
+    public bool inputEnabled = true;
 
     CharacterController controller;
     Vector3 velocity;
@@ -15,16 +18,14 @@ public class PlayerMovement : MonoBehaviour
         controller = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
 
-        // Daca am uitat sa tragem camera in inspector, incearca sa o gaseasca automat
         if (playerCamera == null)
-        {
-            playerCamera = GetComponentInChildren<Camera>().transform;
-        }
+            playerCamera = GetComponentInChildren<Camera>()?.transform;
     }
 
     void Update()
     {
-        if (playerCamera == null) return; // Opreste eroarea daca tot nu gaseste camera
+        if (!inputEnabled) return;
+        if (playerCamera == null) return;
 
         float mouseX = Input.GetAxis("Mouse X") * sensitivity;
         float mouseY = Input.GetAxis("Mouse Y") * sensitivity;
